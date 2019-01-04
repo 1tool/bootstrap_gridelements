@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+    <file source-language="en"
+          target-language="de"
+          datatype="plaintext"
+          original="messages"
+          date="2018-01-10T08:00:00Z"
+          product-name="bootstrap_gridelements">
+        <header/>
+        <body>
+            <!-- Two Columns Text -->
+            <trans-unit id="col.col2.title" xml:space="preserve">
+                <source>Two Columns</source>
+                <target>Zwei Spalten</target>
+            </trans-unit>
+            <trans-unit id="col.col2.description" xml:space="preserve">
+                <source>Display 2 Columns</source>
+                <target>Element um zwei Spalten darstellen zu können.</target>
+            </trans-unit>
+
+            <!-- Three Columns Text -->
+            <trans-unit id="col.col3.title" xml:space="preserve">
+                <source>Three Columns</source>
+                <target>Drei Spalten</target>
+            </trans-unit>
+            <trans-unit id="col.col3.description" xml:space="preserve">
+                <source>Display 3 Columns</source>
+                <target>Element um drei Spalten darstellen zu können.</target>
+            </trans-unit>
+
+            <!-- Four Columns Text -->
+            <trans-unit id="col.col4.title" xml:space="preserve">
+                <source>Four Columns</source>
+                <target>Vier Spalten</target>
+            </trans-unit>
+            <trans-unit id="col.col4.description" xml:space="preserve">
+                <source>Display 4 Columns</source>
+                <target>Element um vier Spalten darstellen zu können.</target>
+            </trans-unit>
+
+            <!-- Column Names -->
+            <trans-unit id="col.name.col1" xml:space="preserve">
+                <source>Column 1</source>
+                <target>Spalte 1</target>
+            </trans-unit>
+            <trans-unit id="col.name.col2" xml:space="preserve">
+                <source>Column 2</source>
+                <target>Spalte 2</target>
+            </trans-unit>
+            <trans-unit id="col.name.col3" xml:space="preserve">
+                <source>Column 3</source>
+                <target>Spalte 3</target>
+            </trans-unit>
+            <trans-unit id="col.name.col4" xml:space="preserve">
+                <source>Column 4</source>
+                <target>Spalte 4</target>
+            </trans-unit>
+
+            <!-- Column Size Names -->
+            <trans-unit id="form.sizename.normal" xml:space="preserve">
+                <source>Column (Normal - col-lg)</source>
+                <target>Spalte (Normal - col-lg)</target>
+            </trans-unit>
+            <trans-unit id="form.sizename.xs" xml:space="preserve">
+                <source>Column (Extra Small - col)</source>
+                <target>Spalte (Sehr Klein - col)</target>
+            </trans-unit>
+            <trans-unit id="form.sizename.md" xml:space="preserve">
+                <source>Column (Medium - col-md)</source>
+                <target>Spalte (Mittel - col-md)</target>
+            </trans-unit>
+            <trans-unit id="form.sizename.xl" xml:space="preserve">
+                <source>Column (Extra Large - col-xl)</source>
+                <target>Spalte (Extra Groß - col-xl)</target>
+            </trans-unit>
+
+            <!-- Column Size Title -->
+            <trans-unit id="form.size.col1" xml:space="preserve">
+                <source>Size Column 1</source>
+                <target>Breite Spalte 1</target>
+            </trans-unit>
+            <trans-unit id="form.size.col2" xml:space="preserve">
+                <source>Size Column 2</source>
+                <target>Breite Spalte 2</target>
+            </trans-unit>
+            <trans-unit id="form.size.col3" xml:space="preserve">
+                <source>Size Column 3</source>
+                <target>Breite Spalte 3</target>
+            </trans-unit>
+            <trans-unit id="form.size.col4" xml:space="preserve">
+                <source>Size Column 4</source>
+                <target>Breite Spalte 4</target>
+            </trans-unit>
+
+            <!-- Form Textelements -->
+            <trans-unit id="form.notdefined" xml:space="preserve">
+                <source>Not defined</source>
+                <target>Nicht definiert</target>
+            </trans-unit>
+            <trans-unit id="form.enable" xml:space="preserve">
+                <source>Enable</source>
+                <target>Aktiviert</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
