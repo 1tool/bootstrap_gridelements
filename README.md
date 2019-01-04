@@ -43,4 +43,4 @@ bootstrap_gridelements uses semantic versioning which basically means for you, t
 - **minor updates** (e.g. 1.0.0 => 1.1.0) includes new features and smaller tasks without breaking changes.
 - **major updates** (e.g. 1.0.0 => 2.0.0) breaking changes wich can be refactorings, features or bugfixes.
 
-&copy; 2018 [Koerbler. - Digital Erfolgreich!](https://www.koerbler.com/)
+&copy; 2019 [Koerbler. - Digital Erfolgreich!](https://www.koerbler.com/)
